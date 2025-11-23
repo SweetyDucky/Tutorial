@@ -37,3 +37,5 @@ print("\nInorder: ", end='')
 inorder(root)
 print("\nPostorder: ", end='')
 postorder(root)
+
+#misalkan ini adalah kode revisi
